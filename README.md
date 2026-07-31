@@ -1,34 +1,32 @@
 <!-- ============================================================
   GitHub Profile README — Bhanu Teja Modem
-  100% self-contained: everything (including the animated banner)
-  lives inside THIS single README.md file. Nothing else to upload.
+  Every visual in this file uses only the most reliable, widely-used
+  GitHub README services: shields.io, readme-typing-svg, komarev,
+  github-readme-stats, and skillicons.dev. No fragile third-party
+  rendering services. Single self-contained file — nothing to upload.
 ============================================================= -->
 
 <div align="center">
 
-<!-- 🎬 Animated hero banner (hosted, live-rendered SVG — auto-updates, no upload needed) -->
-<a href="https://github.com/bhanuteja2007">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6C63FF&height=280&section=header&text=Bhanu%20Teja%20Modem&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=AI%20Architect%20%C2%B7%20Founder%20%26%20CEO%2C%20Manvora%20Intelligence&descAlignY=58&descSize=18&descColor=B8B5FF&animation=fadeIn" width="100%" alt="Bhanu Teja Modem banner" />
-</a>
+# 🚀 Bhanu Teja Modem
 
-<!-- 🎬 Animated typing text -->
-<a href="https://github.com/bhanuteja2007">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Founder+%26+CEO+%40+Manvora+Intelligence;Building+AI+Systems+That+Reason+%26+Explain;AI%2FML+Engineer+%7C+XAI+Researcher" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=AI+Architect+%7C+Founder+%26+CEO%2C+Manvora+Intelligence;Building+AI+Systems+That+Reason%2C+Explain+%26+Scale;Founder+of+FloMKa+%7C+XAI+Researcher" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/%F0%9F%93%8D%20Andhra%20Pradesh%2C%20India-0f0c29?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%F0%9F%8E%93%20CGPA%209.36/10-302b63?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%F0%9F%92%BC%20Founder%20%26%20CEO-6C63FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%F0%9F%93%A6%2016%2B%20Repos-302b63?style=for-the-badge" />
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=bhanuteja2007&label=PROFILE+VIEWS&color=6C63FF&style=for-the-badge" alt="profile views" />
-&nbsp;
-<img src="https://img.shields.io/badge/CGPA-9.36%2F10-6C63FF?style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/REPOS-16%2B-6C63FF?style=for-the-badge" />
 
 <br/><br/>
 
-<!-- 🧭 Quick nav -->
 <a href="#-about-me">About</a> •
-<a href="#%EF%B8%8F-tech-stack--tools">Skills</a> •
+<a href="#-tech-stack--tools">Skills</a> •
 <a href="#-featured-projects">Projects</a> •
 <a href="#-building-in-public">Ventures</a> •
 <a href="#-github-stats">Stats</a> •
@@ -37,22 +35,22 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=googledrive&logoColor=white" />
-<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://drive.google.com/file/d/1_V7zcWqAhD_FREKti-NoxkVkopiVBWXV/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+<a href="https://cognitive-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:bhanuteja.modem@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://cognitive-portfolio.vercel.app/www.linkedin.com/in/modem-bhanu-teja-281897352"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:0f0c29&height=4&section=header" width="100%"/>
+---
 
 <!-- ============================================================
-  🧭 ABOUT ME
+  ABOUT ME
 ============================================================= -->
 
-<h3 align="center">👋 About Me</h3>
+<h3 align="center"><img src="https://img.shields.io/badge/%F0%9F%91%8B%20About%20Me-6C63FF?style=for-the-badge" /></h3>
 
 <table align="center" width="100%">
 <tr>
@@ -98,21 +96,13 @@ I run two ventures while maintaining a 9.36 CGPA — building companies and stud
 
 <br/>
 
-<div align="center">
-
-📍 **Galiveedu, Andhra Pradesh, India** &nbsp;·&nbsp; 🎓 **B.Tech CSE, Vel Tech R&D Institute** &nbsp;·&nbsp; 💼 **Founder & CEO**
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:0f0c29&height=4&section=header" width="100%"/>
+---
 
 <!-- ============================================================
-  🛠️ TECH STACK
+  TECH STACK
 ============================================================= -->
 
-<h3 align="center">🛠️ Tech Stack &amp; Tools</h3>
+<h3 align="center"><img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack%20%26%20Tools-6C63FF?style=for-the-badge" /></h3>
 
 <table align="center" width="100%">
 
@@ -161,13 +151,13 @@ I run two ventures while maintaining a 9.36 CGPA — building companies and stud
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:0f0c29&height=4&section=header" width="100%"/>
+---
 
 <!-- ============================================================
-  🚀 FEATURED PROJECTS
+  FEATURED PROJECTS
 ============================================================= -->
 
-<h3 align="center">🚀 Featured Projects</h3>
+<h3 align="center"><img src="https://img.shields.io/badge/%F0%9F%9A%80%20Featured%20Projects-6C63FF?style=for-the-badge" /></h3>
 <p align="center"><sub>📦 16+ public repositories spanning ML, NLP, Full-Stack, and Sustainability AI</sub></p>
 
 <table align="center" width="100%">
@@ -224,13 +214,13 @@ I run two ventures while maintaining a 9.36 CGPA — building companies and stud
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:0f0c29&height=4&section=header" width="100%"/>
+---
 
 <!-- ============================================================
-  🏢 VENTURES
+  VENTURES
 ============================================================= -->
 
-<h3 align="center">🏢 Building in Public</h3>
+<h3 align="center"><img src="https://img.shields.io/badge/%F0%9F%8F%A2%20Building%20in%20Public-6C63FF?style=for-the-badge" /></h3>
 
 <table align="center" width="100%">
 <tr>
@@ -267,13 +257,13 @@ I run two ventures while maintaining a 9.36 CGPA — building companies and stud
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:0f0c29&height=4&section=header" width="100%"/>
+---
 
 <!-- ============================================================
-  📊 GITHUB STATS
+  GITHUB STATS
 ============================================================= -->
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center"><img src="https://img.shields.io/badge/%F0%9F%93%8A%20GitHub%20Stats-6C63FF?style=for-the-badge" /></h3>
 
 <table align="center" width="100%">
 <tr>
@@ -296,13 +286,13 @@ I run two ventures while maintaining a 9.36 CGPA — building companies and stud
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:0f0c29&height=4&section=header" width="100%"/>
+---
 
 <!-- ============================================================
-  🏆 ACHIEVEMENTS & CERTIFICATIONS
+  ACHIEVEMENTS & CERTIFICATIONS
 ============================================================= -->
 
-<h3 align="center">🏆 Achievements &amp; Certifications</h3>
+<h3 align="center"><img src="https://img.shields.io/badge/%F0%9F%8F%86%20Achievements%20%26%20Certifications-6C63FF?style=for-the-badge" /></h3>
 
 <table align="center" width="100%">
 <tr>
@@ -352,13 +342,13 @@ I run two ventures while maintaining a 9.36 CGPA — building companies and stud
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:0f0c29&height=4&section=header" width="100%"/>
+---
 
 <!-- ============================================================
-  📬 CONNECT WITH ME
+  CONNECT WITH ME
 ============================================================= -->
 
-<h3 align="center">📬 Connect With Me</h3>
+<h3 align="center"><img src="https://img.shields.io/badge/%F0%9F%93%AC%20Connect%20With%20Me-6C63FF?style=for-the-badge" /></h3>
 
 <div align="center">
 
@@ -378,5 +368,3 @@ I run two ventures while maintaining a 9.36 CGPA — building companies and stud
 ⭐️ From **[bhanuteja2007](https://github.com/bhanuteja2007)** — thanks for stopping by!
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
