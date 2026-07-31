@@ -83,7 +83,7 @@ Hi! I'm Bhanu Teja — an AI Engineer passionate about building intelligent syst
 
 Currently:
 
-🎓 B.Tech CSE, Vel Tech R&D Institute (CGPA 9.36/10)  ·  🏢 Founder, Manvora Intelligence  ·  🔬 Researching Explainable AI  ·  🚀 Building FloMKa  ·  🌐 Open Source Contributor
+🎓 B.Tech CSE, Vel Tech R&D Institute (CGPA 9.48/10)  ·  🏢 Founder, Manvora Intelligence  ·  🔬 Researching Explainable AI  ·  🚀 Building FloMKa  ·  🌐 Open Source Contributor
 
 </div>
 
@@ -109,7 +109,7 @@ Explainable AI  ·  Multilingual NLP<br/>AI Safety  ·  AI-native Startups
 
 ⚡ Fun Fact
 
-I run two ventures while maintaining a 9.36 CGPA — building companies and studying algorithms in parallel.
+I run two ventures while maintaining a 9.48 CGPA — building companies and studying algorithms in parallel.
 
 </td>
 </tr>
@@ -131,7 +131,7 @@ I run two ventures while maintaining a 9.36 CGPA — building companies and stud
 
 <div align="center">
 
-2024 — Started B.Tech, Computer Science & Engineering, Vel Tech R&D Institute<br/>↓<br/>2025 — Completed Machine Learning Internship (with distinction) — Ediglobe<br/>↓<br/>2025 — Founded Manvora Intelligence; launched child company FloMKa<br/>↓<br/>2026 — Certified in Generative AI (AWS) & AI Ethics/Explainability (Great Learning)<br/>↓<br/>Now — Co-founding Nexhire, building Samadan, researching multilingual XAI for governance
+2024 — Started B.Tech, Computer Science & Engineering, Vel Tech R&D Institute<br/>↓<br/>2025 — Completed Machine Learning Internship (with distinction) — Ediglobe<br/>↓<br/>2025 — Founded Manvora Intelligence; launched child company FloMKa<br/>↓<br/>2026 — Certified in Generative AI (AWS) & AI Ethics/Explainability <br/>↓<br/>Now — Co-founding Nexhire, building Samadan, researching multilingual XAI for governance
 
 </div>
 
@@ -361,8 +361,7 @@ Designing XAI for Citizens — turning model explanations into short, human-read
 
 🏆 Achievements & Certifications
 
-🎓 9.36 CGPA — B.Tech CSE, Vel Tech R&D Institute  ·  🥇 96.2% Intermediate<br/>📜 Machine Learning Certification — Ediglobe (2025)  ·  📜 ML Internship, Distinction — Ediglobe (2025)<br/>📜 Generative AI — AWS (2026)  ·  📜 AI Ethics & Explainability — Great Learning (2026)<br/>✍️ Published Research Note — Designing XAI for Citizens, ACM Digital Library
-
+🎓 9.48 CGPA — B.Tech CSE, Vel Tech R&D Institute  ·  🥇 96.2% Intermediate<br/>📜 Machine Learning Certification — Ediglobe (2025)  ·  📜 ML Internship, Distinction — Ediglobe (2025)<br/>📜 Generative AI — AWS (2026)  ·  📜 AI Ethics & Explainability <br/>✍️ Published Research Note — Designing XAI for Citizens
 </div>
 
 <br/>
