@@ -10,8 +10,11 @@
 
 <div align="center">
 
-<!-- 🖼️ Custom AI-branded banner (name + title baked into the graphic) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:5B86E5,100:36D1DC&height=260&section=header&text=BHANU%20TEJA%20MODEM&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI%20Engineer%20%20%7C%20%20XAI%20Researcher%20%20%7C%20%20Founder&descAlignY=58&descSize=16&descColor=E6F7FF" width="100%" alt="Bhanu Teja Modem — AI Engineer, XAI Researcher, Founder" />
+<!-- 🖼️ Custom cinematic hero artwork — holographic neural core, LUNA-XAI moon +
+     orbiting satellite, floating tech chips, starfield & particles.
+     Lives in banner-hero.svg alongside this README (relative path — GitHub
+     blocks inline data-URI images, so this has to be its own file). -->
+<img src="./banner-hero.svg" width="100%" alt="Bhanu Teja Modem — AI Engineer, XAI Researcher, Founder, LUNA-XAI" />
 
 <!-- Plain-text fallback so the headline never depends on an image loading -->
 # BHANU TEJA MODEM
