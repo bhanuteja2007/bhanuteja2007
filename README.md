@@ -6,21 +6,23 @@
 ============================================================= -->
 
 <!-- 🌊 Animated wave header -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:5B86E5,100:36D1DC&height=90&section=header" width="100%"/>
 
 <div align="center">
 
-<!-- 🖼️ Custom cinematic hero artwork — holographic neural core, LUNA-XAI moon +
-     orbiting satellite, floating tech chips, starfield & particles.
-     Lives in banner-hero.svg alongside this README (relative path — GitHub
-     blocks inline data-URI images, so this has to be its own file). -->
-<img src="./banner-hero.svg" width="100%" alt="Bhanu Teja Modem — AI Engineer, XAI Researcher, Founder, LUNA-XAI" />
+<!-- 🖼️ Custom AI-branded banner (name + title baked into the graphic) -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:5B86E5,100:36D1DC&height=260&section=header&text=BHANU%20TEJA%20MODEM&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI%20Engineer%20%20%7C%20%20XAI%20Researcher%20%20%7C%20%20Founder&descAlignY=58&descSize=16&descColor=E6F7FF" width="100%" alt="Bhanu Teja Modem — AI Engineer, XAI Researcher, Founder" />
 
 <!-- Plain-text fallback so the headline never depends on an image loading -->
-# BHANU TEJA MODEM
-### AI ENGINEER • XAI RESEARCHER • FOUNDER
+
+BHANU TEJA MODEM
+
+AI ENGINEER • XAI RESEARCHER • FOUNDER
 
 <!-- ⌨️ Typing animation — rotating roles -->
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=36D1DC&center=true&vCenter=true&width=800&height=40&lines=Building+Explainable+AI;Developing+AI+Products;Open+Source+Contributor;Researching+LLMs;Learning+Every+Day" alt="Typing SVG" />
 
 <sub>Building Explainable AI that solves real-world problems.</sub>
@@ -28,6 +30,7 @@
 <br/><br/>
 
 <!-- 🏷️ 5 meaningful badges only -->
+
 <img src="https://img.shields.io/badge/AI_Engineer-0F172A?style=for-the-badge&color=5B86E5" />
 <img src="https://img.shields.io/badge/XAI_Researcher-0F172A?style=for-the-badge&color=36D1DC" />
 <img src="https://img.shields.io/badge/Founder-0F172A?style=for-the-badge&color=00C9FF" />
@@ -37,6 +40,7 @@
 <br/><br/>
 
 <!-- 📈 Compact status dashboard -->
+
 <table>
 <tr>
 <td align="center">🟢&nbsp;<b>Status</b><br/>Available for AI Internships</td>
@@ -48,19 +52,12 @@
 <br/>
 
 <!-- 🔗 4 CTA buttons -->
-<a href="https://cognitive-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-36D1DC?style=for-the-badge&logo=vercel&logoColor=0F172A" /></a>
-<a href="https://drive.google.com/file/d/1_V7zcWqAhD_FREKti-NoxkVkopiVBWXV/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-5B86E5?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/modem-bhanu-teja-281897352/"><img src="https://img.shields.io/badge/LinkedIn-00C9FF?style=for-the-badge&logo=linkedin&logoColor=0F172A" /></a>
-<a href="https://github.com/bhanuteja2007"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<a href="https://cognitive-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-36D1DC?style=for-the-badge&logo=vercel&logoColor=0F172A" /></a><a href="https://drive.google.com/file/d/1_V7zcWqAhD_FREKti-NoxkVkopiVBWXV/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-5B86E5?style=for-the-badge&logo=googledrive&logoColor=white" /></a><a href="https://www.linkedin.com/in/modem-bhanu-teja-281897352/"><img src="https://img.shields.io/badge/LinkedIn-00C9FF?style=for-the-badge&logo=linkedin&logoColor=0F172A" /></a><a href="https://github.com/bhanuteja2007"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
-<a href="#about-me">About</a> ・
-<a href="#tech-stack">Stack</a> ・
-<a href="#featured-projects">Projects</a> ・
-<a href="#research-interests">Research</a> ・
-<a href="#github-analytics">Analytics</a> ・
-<a href="#lets-connect">Connect</a>
+<a href="#about-me">About</a> ・<a href="#tech-stack">Stack</a> ・<a href="#featured-projects">Projects</a> ・<a href="#research-interests">Research</a> ・<a href="#github-analytics">Analytics</a> ・<a href="#lets-connect">Connect</a>
 
 </div>
 
@@ -71,21 +68,22 @@
 <!-- ============================================================
   ABOUT ME
 ============================================================= -->
+
 <a name="about-me"></a>
 
 <div align="center">
 
-## 👋 About Me
+👋 About Me
 
 </div>
 
 <div align="center">
 
-**Hi! I'm Bhanu Teja** — an AI Engineer passionate about building intelligent systems that can explain their own decisions.
+Hi! I'm Bhanu Teja — an AI Engineer passionate about building intelligent systems that can explain their own decisions.
 
-**Currently:**
+Currently:
 
-🎓 B.Tech CSE, Vel Tech R&D Institute (CGPA 9.36/10) &nbsp;·&nbsp; 🏢 Founder, Manvora Intelligence &nbsp;·&nbsp; 🔬 Researching Explainable AI &nbsp;·&nbsp; 🚀 Building FloMKa &nbsp;·&nbsp; 🌐 Open Source Contributor
+🎓 B.Tech CSE, Vel Tech R&D Institute (CGPA 9.36/10)  ·  🏢 Founder, Manvora Intelligence  ·  🔬 Researching Explainable AI  ·  🚀 Building FloMKa  ·  🌐 Open Source Contributor
 
 </div>
 
@@ -95,19 +93,22 @@
 <tr>
 <td align="center" width="33%" valign="top">
 
-### 🎯 Career Goal
+🎯 Career Goal
+
 Become an AI/ML Engineer building explainable, scalable systems — through full-time roles, research, or freelance work.
 
 </td>
 <td align="center" width="33%" valign="top">
 
-### 🧠 Interests
-Explainable AI &nbsp;·&nbsp; Multilingual NLP<br/>AI Safety &nbsp;·&nbsp; AI-native Startups
+🧠 Interests
+
+Explainable AI  ·  Multilingual NLP<br/>AI Safety  ·  AI-native Startups
 
 </td>
 <td align="center" width="33%" valign="top">
 
-### ⚡ Fun Fact
+⚡ Fun Fact
+
 I run two ventures while maintaining a 9.36 CGPA — building companies and studying algorithms in parallel.
 
 </td>
@@ -124,21 +125,13 @@ I run two ventures while maintaining a 9.36 CGPA — building companies and stud
 
 <div align="center">
 
-## 🗓️ Journey So Far
+🗓️ Journey So Far
 
 </div>
 
 <div align="center">
 
-**2024** — Started B.Tech, Computer Science & Engineering, Vel Tech R&D Institute
-<br/>↓<br/>
-**2025** — Completed Machine Learning Internship (with distinction) — Ediglobe
-<br/>↓<br/>
-**2025** — Founded **Manvora Intelligence**; launched child company **FloMKa**
-<br/>↓<br/>
-**2026** — Certified in Generative AI (AWS) &amp; AI Ethics/Explainability (Great Learning)
-<br/>↓<br/>
-**Now** — Co-founding **Nexhire**, building **Samadan**, researching multilingual XAI for governance
+2024 — Started B.Tech, Computer Science & Engineering, Vel Tech R&D Institute<br/>↓<br/>2025 — Completed Machine Learning Internship (with distinction) — Ediglobe<br/>↓<br/>2025 — Founded Manvora Intelligence; launched child company FloMKa<br/>↓<br/>2026 — Certified in Generative AI (AWS) & AI Ethics/Explainability (Great Learning)<br/>↓<br/>Now — Co-founding Nexhire, building Samadan, researching multilingual XAI for governance
 
 </div>
 
@@ -149,11 +142,12 @@ I run two ventures while maintaining a 9.36 CGPA — building companies and stud
 <!-- ============================================================
   TECH STACK
 ============================================================= -->
+
 <a name="tech-stack"></a>
 
 <div align="center">
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 </div>
 
@@ -193,12 +187,7 @@ I run two ventures while maintaining a 9.36 CGPA — building companies and stud
 
 <div align="center">
 
-`Python`         `██████████` 100%
-`Machine Learning` `█████████░` 90%
-`Java`           `████████░░` 80%
-`TensorFlow`     `████████░░` 80%
-`React`          `███████░░░` 70%
-`NLP`            `████████░░` 80%
+Python         ██████████ 100%Machine Learning █████████░ 90%Java           ████████░░ 80%TensorFlow     ████████░░ 80%React          ███████░░░ 70%NLP            ████████░░ 80%
 
 </div>
 
@@ -209,11 +198,13 @@ I run two ventures while maintaining a 9.36 CGPA — building companies and stud
 <!-- ============================================================
   FEATURED PROJECTS
 ============================================================= -->
+
 <a name="featured-projects"></a>
 
 <div align="center">
 
-## 🚀 Featured Projects
+🚀 Featured Projects
+
 <sub>📦 16+ public repositories · explore them all on my <a href="https://github.com/bhanuteja2007?tab=repositories">GitHub</a></sub>
 
 </div>
@@ -222,14 +213,9 @@ I run two ventures while maintaining a 9.36 CGPA — building companies and stud
 
 <div align="center">
 
-### 🧘 Stress Level Identifier
-`ML` `Healthcare`
-<br/>
-ML pipeline classifying stress levels from physiological data — served through a Streamlit app on a trained scikit-learn model.
-<br/>
-`Python` `Scikit-learn` `Streamlit`
-<br/>
-<a href="https://github.com/bhanuteja2007/Stress-level-identifier-using-ML">🔗 Repo</a>
+🧘 Stress Level Identifier
+
+ML Healthcare<br/>ML pipeline classifying stress levels from physiological data — served through a Streamlit app on a trained scikit-learn model.<br/>Python Scikit-learn Streamlit<br/><a href="https://github.com/bhanuteja2007/Stress-level-identifier-using-ML">🔗 Repo</a>
 
 </div>
 
@@ -237,14 +223,9 @@ ML pipeline classifying stress levels from physiological data — served through
 
 <div align="center">
 
-### 🚌 Real-Time Public Transport Tracker
-`Full-Stack` `Real-Time`
-<br/>
-Live vehicle tracking with interactive maps and a real-time commuter-facing UI.
-<br/>
-`HTML` `JavaScript` `Maps API`
-<br/>
-<a href="https://github.com/bhanuteja2007/Real-time-public-Transport-tracking-system-">🔗 Repo</a>
+🚌 Real-Time Public Transport Tracker
+
+Full-Stack Real-Time<br/>Live vehicle tracking with interactive maps and a real-time commuter-facing UI.<br/>HTML JavaScript Maps API<br/><a href="https://github.com/bhanuteja2007/Real-time-public-Transport-tracking-system-">🔗 Repo</a>
 
 </div>
 
@@ -252,14 +233,9 @@ Live vehicle tracking with interactive maps and a real-time commuter-facing UI.
 
 <div align="center">
 
-### 📊 CTR Optimisation — ConnectSphere
-`Predictive Analytics` `Ad-Tech`
-<br/>
-Ensemble ML models for Click-Through Rate optimisation, with feature-importance analysis and XGBoost-based bidding.
-<br/>
-`Jupyter` `XGBoost` `EDA`
-<br/>
-<a href="https://github.com/bhanuteja2007/Predictive-Modeling-for-Click-Through-Rate-Optimization-at-ConnectSphere-Digital">🔗 Repo</a>
+📊 CTR Optimisation — ConnectSphere
+
+Predictive Analytics Ad-Tech<br/>Ensemble ML models for Click-Through Rate optimisation, with feature-importance analysis and XGBoost-based bidding.<br/>Jupyter XGBoost EDA<br/><a href="https://github.com/bhanuteja2007/Predictive-Modeling-for-Click-Through-Rate-Optimization-at-ConnectSphere-Digital">🔗 Repo</a>
 
 </div>
 
@@ -267,14 +243,9 @@ Ensemble ML models for Click-Through Rate optimisation, with feature-importance 
 
 <div align="center">
 
-### 💬 AI Text Generator — Sentiment Analysis
-`NLP` `Generative AI`
-<br/>
-Transformer-based system combining text generation with sentiment classification at scale.
-<br/>
-`Python` `Transformers` `NLP`
-<br/>
-<a href="https://github.com/bhanuteja2007/ai-text-generator-for-sentiment-analysis">🔗 Repo</a>
+💬 AI Text Generator — Sentiment Analysis
+
+NLP Generative AI<br/>Transformer-based system combining text generation with sentiment classification at scale.<br/>Python Transformers NLP<br/><a href="https://github.com/bhanuteja2007/ai-text-generator-for-sentiment-analysis">🔗 Repo</a>
 
 </div>
 
@@ -288,19 +259,9 @@ Transformer-based system combining text generation with sentiment classification
 
 <div align="center">
 
-## 🏢 Currently Working On
+🏢 Currently Working On
 
-**Manvora Intelligence** — CEO &amp; Founder · 🟢 Live · <a href="https://manvora.vercel.app/">manvora.vercel.app</a>
-<br/>
-**FloMKa** — Founder &amp; CEO · 🟢 Live (child co.) · <a href="https://flo-m-ka.vercel.app/">flo-m-ka.vercel.app</a>
-<br/>
-**LUNA-XAI** — 🟡 In Progress · Explainable AI system
-<br/>
-**Samadan** — Founder · 🟡 Stealth · GovTech &amp; multilingual grievance resolution
-<br/>
-**Nexhire** — Co-Founder · 🟡 Stealth · Bias-aware AI recruiting
-<br/>
-**Multilingual XAI Research** — Ongoing · Explainable AI for e-governance
+Manvora Intelligence — CEO & Founder · 🟢 Live · <a href="https://manvora.vercel.app/">manvora.vercel.app</a><br/>FloMKa — Founder & CEO · 🟢 Live (child co.) · <a href="https://flo-m-ka.vercel.app/">flo-m-ka.vercel.app</a><br/>LUNA-XAI — 🟡 In Progress · Explainable AI system<br/>Samadan — Founder · 🟡 Stealth · GovTech & multilingual grievance resolution<br/>Nexhire — Co-Founder · 🟡 Stealth · Bias-aware AI recruiting<br/>Multilingual XAI Research — Ongoing · Explainable AI for e-governance
 
 </div>
 
@@ -308,9 +269,9 @@ Transformer-based system combining text generation with sentiment classification
 
 <div align="center">
 
-### 🤝 Open To
+🤝 Open To
 
-`Internships` `Research Collaborations` `Open Source` `Freelance / Consulting` `Startup Collaboration`
+Internships Research Collaborations Open Source Freelance / Consulting Startup Collaboration
 
 </div>
 
@@ -321,11 +282,12 @@ Transformer-based system combining text generation with sentiment classification
 <!-- ============================================================
   RESEARCH
 ============================================================= -->
+
 <a name="research-interests"></a>
 
 <div align="center">
 
-## 🔬 Research Interests
+🔬 Research Interests
 
 <img src="https://img.shields.io/badge/Explainable_AI-0F172A?style=for-the-badge&color=5B86E5" />
 <img src="https://img.shields.io/badge/Responsible_AI-0F172A?style=for-the-badge&color=36D1DC" />
@@ -336,7 +298,7 @@ Transformer-based system combining text generation with sentiment classification
 
 <br/><br/>
 
-**Active track:** Designing a multilingual Explainable AI framework for public grievance redressal, aligned with e-governance policy — bridging complex ML decisions and non-technical citizens across English, Telugu, and Hindi.
+Active track: Designing a multilingual Explainable AI framework for public grievance redressal, aligned with e-governance policy — bridging complex ML decisions and non-technical citizens across English, Telugu, and Hindi.
 
 </div>
 
@@ -344,13 +306,9 @@ Transformer-based system combining text generation with sentiment classification
 
 <div align="center">
 
-### ✍️ Latest Insights
+✍️ Latest Insights
 
-**Designing XAI for Citizens** — turning model explanations into short, human-readable templates non-technical citizens can trust. [Read →](https://dl.acm.org/doi/full/10.1145/3708319.3733707)
-<br/><br/>
-**Practical Fine-Tuning Patterns** — notes on data curation, LoRA, and evaluation for domain-specific LLMs in low-resource languages. [Read →](https://medium.com/@raghavsharma6002/lora-and-beyond-a-practical-guide-to-fine-tuning-large-language-models-691f87310e80)
-<br/><br/>
-**Deploying Vision Models on Edge** — quantization/pruning trade-offs for YOLO-derived models on low-power boards. [Read →](https://www.fabricionarcizo.com/cvpr2025-edge-ai-in-action/)
+Designing XAI for Citizens — turning model explanations into short, human-readable templates non-technical citizens can trust. Read →<br/><br/>Practical Fine-Tuning Patterns — notes on data curation, LoRA, and evaluation for domain-specific LLMs in low-resource languages. Read →<br/><br/>Deploying Vision Models on Edge — quantization/pruning trade-offs for YOLO-derived models on low-power boards. Read →
 
 </div>
 
@@ -361,11 +319,12 @@ Transformer-based system combining text generation with sentiment classification
 <!-- ============================================================
   GITHUB ANALYTICS
 ============================================================= -->
+
 <a name="github-analytics"></a>
 
 <div align="center">
 
-## 📊 GitHub Analytics
+📊 GitHub Analytics
 
 <img src="https://komarev.com/ghpvc/?username=bhanuteja2007&label=PROFILE+VIEWS&color=5B86E5&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/bhanuteja2007?style=for-the-badge&color=36D1DC&labelColor=0F172A" />
@@ -400,15 +359,9 @@ Transformer-based system combining text generation with sentiment classification
 
 <div align="center">
 
-## 🏆 Achievements &amp; Certifications
+🏆 Achievements & Certifications
 
-🎓 9.36 CGPA — B.Tech CSE, Vel Tech R&amp;D Institute &nbsp;·&nbsp; 🥇 96.2% Intermediate
-<br/>
-📜 Machine Learning Certification — Ediglobe (2025) &nbsp;·&nbsp; 📜 ML Internship, Distinction — Ediglobe (2025)
-<br/>
-📜 Generative AI — AWS (2026) &nbsp;·&nbsp; 📜 AI Ethics &amp; Explainability — Great Learning (2026)
-<br/>
-✍️ Published Research Note — *Designing XAI for Citizens*, ACM Digital Library
+🎓 9.36 CGPA — B.Tech CSE, Vel Tech R&D Institute  ·  🥇 96.2% Intermediate<br/>📜 Machine Learning Certification — Ediglobe (2025)  ·  📜 ML Internship, Distinction — Ediglobe (2025)<br/>📜 Generative AI — AWS (2026)  ·  📜 AI Ethics & Explainability — Great Learning (2026)<br/>✍️ Published Research Note — Designing XAI for Citizens, ACM Digital Library
 
 </div>
 
@@ -419,22 +372,20 @@ Transformer-based system combining text generation with sentiment classification
 <!-- ============================================================
   CONNECT
 ============================================================= -->
+
 <a name="lets-connect"></a>
 
 <div align="center">
 
-## 📬 Let's Connect
+📬 Let's Connect
 
 Let's build the future with AI.
 
-If you're working on **AI**, **Machine Learning**, **Research**, **Open Source**, or **Startups** — I'd love to collaborate.
+If you're working on AI, Machine Learning, Research, Open Source, or Startups — I'd love to collaborate.
 
 <br/>
 
-<a href="mailto:bhanuteja.modem@gmail.com"><img src="https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
-<a href="https://www.linkedin.com/in/modem-bhanu-teja-281897352/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=00C9FF" /></a>
-<a href="https://github.com/bhanuteja2007"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://cognitive-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=36D1DC" /></a>
+<a href="mailto:bhanuteja.modem@gmail.com"><img src="https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a><a href="https://www.linkedin.com/in/modem-bhanu-teja-281897352/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=00C9FF" /></a><a href="https://github.com/bhanuteja2007"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a><a href="https://cognitive-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=36D1DC" /></a>
 
 <br/><br/>
 
