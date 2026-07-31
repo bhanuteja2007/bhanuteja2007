@@ -5,28 +5,46 @@
   skillicons.dev · github-profile-trophy · capsule-render (decorative wave only)
 ============================================================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:5B86E5,100:36D1DC&height=120&section=header" width="100%"/>
+<!-- 🌊 Animated wave header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:5B86E5,100:36D1DC&height=90&section=header" width="100%"/>
 
 <div align="center">
 
+<!-- 🖼️ Custom AI-branded banner (name + title baked into the graphic) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:5B86E5,100:36D1DC&height=260&section=header&text=BHANU%20TEJA%20MODEM&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI%20Engineer%20%20%7C%20%20XAI%20Researcher%20%20%7C%20%20Founder&descAlignY=58&descSize=16&descColor=E6F7FF" width="100%" alt="Bhanu Teja Modem — AI Engineer, XAI Researcher, Founder" />
+
+<!-- Plain-text fallback so the headline never depends on an image loading -->
 # BHANU TEJA MODEM
+### AI ENGINEER • XAI RESEARCHER • FOUNDER
 
-### AI ENGINEER • RESEARCHER • ENTREPRENEUR
-
+<!-- ⌨️ Typing animation — rotating roles -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=36D1DC&center=true&vCenter=true&width=800&height=40&lines=Building+Explainable+AI;Developing+AI+Products;Open+Source+Contributor;Researching+LLMs;Learning+Every+Day" alt="Typing SVG" />
 
 <sub>Building Explainable AI that solves real-world problems.</sub>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/AI_Engineer-0F172A?style=for-the-badge&logoColor=white&color=5B86E5" />
-<img src="https://img.shields.io/badge/Open_Source-0F172A?style=for-the-badge&color=36D1DC" />
-<img src="https://img.shields.io/badge/Research-0F172A?style=for-the-badge&color=00C9FF" />
-<img src="https://img.shields.io/badge/Founder-0F172A?style=for-the-badge&color=5B86E5" />
+<!-- 🏷️ 5 meaningful badges only -->
+<img src="https://img.shields.io/badge/AI_Engineer-0F172A?style=for-the-badge&color=5B86E5" />
+<img src="https://img.shields.io/badge/XAI_Researcher-0F172A?style=for-the-badge&color=36D1DC" />
+<img src="https://img.shields.io/badge/Founder-0F172A?style=for-the-badge&color=00C9FF" />
+<img src="https://img.shields.io/badge/Open_Source-0F172A?style=for-the-badge&color=5B86E5" />
 <img src="https://img.shields.io/badge/India-0F172A?style=for-the-badge&color=36D1DC" />
 
 <br/><br/>
 
+<!-- 📈 Compact status dashboard -->
+<table>
+<tr>
+<td align="center">🟢&nbsp;<b>Status</b><br/>Available for AI Internships</td>
+<td align="center">🚀&nbsp;<b>Building</b><br/>LUNA-XAI · FloMKa</td>
+<td align="center">🔬&nbsp;<b>Research</b><br/>Explainable AI · Multilingual NLP</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- 🔗 4 CTA buttons -->
 <a href="https://cognitive-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-36D1DC?style=for-the-badge&logo=vercel&logoColor=0F172A" /></a>
 <a href="https://drive.google.com/file/d/1_V7zcWqAhD_FREKti-NoxkVkopiVBWXV/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-5B86E5?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/modem-bhanu-teja-281897352/"><img src="https://img.shields.io/badge/LinkedIn-00C9FF?style=for-the-badge&logo=linkedin&logoColor=0F172A" /></a>
@@ -272,6 +290,8 @@ Transformer-based system combining text generation with sentiment classification
 **Manvora Intelligence** — CEO &amp; Founder · 🟢 Live · <a href="https://manvora.vercel.app/">manvora.vercel.app</a>
 <br/>
 **FloMKa** — Founder &amp; CEO · 🟢 Live (child co.) · <a href="https://flo-m-ka.vercel.app/">flo-m-ka.vercel.app</a>
+<br/>
+**LUNA-XAI** — 🟡 In Progress · Explainable AI system
 <br/>
 **Samadan** — Founder · 🟡 Stealth · GovTech &amp; multilingual grievance resolution
 <br/>
